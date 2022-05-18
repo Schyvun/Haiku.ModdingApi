@@ -1,4 +1,5 @@
 lib/Game/*.dll
-bin
+Haiku.CoreModdingApi
+Haiku.CoreModdingApi.dll
 .vs
 obj
